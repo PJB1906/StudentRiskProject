@@ -1,4 +1,4 @@
-# 🎓 Student Performance Risk Prediction System
+# Student Performance Risk Prediction System
 
 A machine learning web application that predicts student academic risk with high accuracy, helping educational institutions identify struggling students early and enable timely interventions.
 
@@ -7,7 +7,7 @@ A machine learning web application that predicts student academic risk with high
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.39-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Demo](#demo)
@@ -22,7 +22,7 @@ A machine learning web application that predicts student academic risk with high
 - [License](#license)
 - [Contact](#contact)
 
-## 🎯 Overview
+## Overview
 
 This system uses machine learning to predict which students are at risk of poor academic performance based on key indicators like attendance, assignment scores, GPA, and internal marks. The interactive dashboard provides educators with actionable insights to support student success.
 
@@ -33,40 +33,40 @@ This system uses machine learning to predict which students are at risk of poor 
 - ✅ Modern gradient UI design
 - ✅ Interactive data visualizations
 
-## ✨ Features
+##  Features
 
-### 📊 Dashboard
+###  Dashboard
 - Overview of total students, at-risk count, and model accuracy
 - Risk distribution visualizations (pie charts, bar graphs)
 - Department and subject-wise risk analysis
 - Gender-based performance insights
 - Feature analysis with box plots
 
-### 🔮 Risk Prediction
+### Risk Prediction
 - Individual student risk assessment
 - Interactive sliders for data input
 - Real-time probability scoring
 - Visual risk gauge (0-100 scale)
 - Personalized intervention recommendations
 
-### 🔍 Student Search
+### Student Search
 - Search by student name or ID
 - Filter by risk status (All/At Risk/Safe)
 - View complete student profiles
 - Export search results to CSV
 
-### 📈 Model Performance
+### Model Performance
 - Confusion matrix visualization
 - Feature importance analysis
 - Detailed classification report
 - ROC-AUC score metrics
 
-### 📥 Data Export
+### Data Export
 - Download full dataset (CSV)
 - Export at-risk students only
 - Export filtered search results
 
-## 🎬 Demo
+## Demo
 
 ![Dashboard Screenshot](screenshots/dashboard.png)
 *Main dashboard showing key metrics and visualizations*
@@ -74,7 +74,7 @@ This system uses machine learning to predict which students are at risk of poor 
 ![Prediction Screenshot](screenshots/prediction.png)
 *Real-time risk prediction interface*
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -109,7 +109,7 @@ streamlit run app.py
 
 The application will open automatically in your default browser at `http://localhost:8501`
 
-## 💻 Usage
+##  Usage
 
 ### Running the Dashboard
 1. Start the application using `streamlit run app.py`
@@ -139,7 +139,7 @@ The application will open automatically in your default browser at `http://local
 | **Visualization** | Plotly |
 | **UI Design** | Custom CSS, Gradient Themes |
 
-## 📁 Project Structure
+##  Project Structure
 ```
 student-risk-prediction/
 │
@@ -155,7 +155,7 @@ student-risk-prediction/
 └── .gitignore               # Git ignore file
 ```
 
-## 📊 Model Performance
+##  Model Performance
 
 | Metric | Value |
 |--------|-------|
@@ -173,7 +173,7 @@ student-risk-prediction/
 4. **Previous GPA (15%)** - Supporting indicator
 5. **Semester (10%)** - Contextual factor
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -187,7 +187,7 @@ student-risk-prediction/
 ### Model Performance
 ![Performance](screenshots/performance.png)
 
-## 🎯 Dataset Details
+## Dataset Details
 
 The system uses synthetically generated data with the following characteristics:
 
@@ -205,7 +205,7 @@ The system uses synthetically generated data with the following characteristics:
 | STU000002 | Fatima Khan | 23.47 | 27.93 | 1.23 | 29.48 | At Risk ⚠️ |
 | STU000003 | Karthik Reddy | 85.17 | 89.62 | 3.68 | 81.29 | Safe ✅ |
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Short Term
 - [ ] Multi-class risk levels (Low/Medium/High/Critical)
@@ -225,7 +225,7 @@ The system uses synthetically generated data with the following characteristics:
 - [ ] Real-time data integration
 - [ ] Multi-language support (Hindi, Tamil, Telugu, etc.)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -235,31 +235,19 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
+## Contact
 
 **Your Name**
 - GitHub: https://github.com/PJB1906
-- LinkedIn: https://linkedin.com/in/puranjyoti-bera
+- LinkedIn: https://linkedin.com/in/puranjyotibera
 - Email: pjb.pkbrb@gmail.com
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset inspired by real-world educational data patterns
 - UI design influenced by modern web application trends
-- Built with ❤️ using Python and Streamlit
+- Built using Python and Streamlit
 
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
-
----
-
-**Made with 🎓 for educational institutions and student success**
