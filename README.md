@@ -205,25 +205,6 @@ The system uses synthetically generated data with the following characteristics:
 | STU000002 | Fatima Khan | 23.47 | 27.93 | 1.23 | 29.48 | At Risk ⚠️ |
 | STU000003 | Karthik Reddy | 85.17 | 89.62 | 3.68 | 81.29 | Safe ✅ |
 
-## Future Enhancements
-
-### Short Term
-- [ ] Multi-class risk levels (Low/Medium/High/Critical)
-- [ ] Email notifications for at-risk students
-- [ ] Historical trend analysis
-- [ ] Department-wise custom thresholds
-
-### Medium Term
-- [ ] Integration with Learning Management Systems (LMS)
-- [ ] Mobile application
-- [ ] Automated intervention workflows
-- [ ] Teacher-specific dashboards
-
-### Long Term
-- [ ] Deep learning models for improved accuracy
-- [ ] Natural Language Processing for feedback analysis
-- [ ] Real-time data integration
-- [ ] Multi-language support (Hindi, Tamil, Telugu, etc.)
 
 ## Contributing
 
