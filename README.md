@@ -7,6 +7,8 @@ A machine learning web application that predicts student academic risk with high
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.39-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+🚀 **[Live Demo](https://studentrisk.streamlit.app/)** ← Click here to try it!
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
